@@ -1,4 +1,5 @@
-# Guia para carreira de Analista de Dados:
+# [Guia para carreira de Analista de Dados](https://notebook.google.com/notebook/a0ba2510-c23d-49d8-9bf7-44e2df45fcc1): 
+> *Gerado com [NotebookLM](https://notebook.google.com/):* <br/>
 
 O tema escolhido foi carreira em análise de dados: Como iniciar, quais os principais conceitos um analista de dados deve saber, quais as principais ferramentas para utilização.
 Meu objetivo com este tema é me auxiliar nos meus estudos para migrar da área em que atuo (analista de suporte T.I) para analista de dados, visando acelerar meu aprendizado no que é crucial para a área de atuação.
