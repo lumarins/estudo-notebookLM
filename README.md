@@ -28,12 +28,12 @@ O Guia criado apresenta um panorama sobre a carreira de Analista de dados, passa
 
 **Glossário:**
 
-**KPI (Indicador-Chave de Desempenho)** é uma ferramenta de gestão usada para medir o sucesso e o progresso de uma empresa ou atividade em direção a um objetivo estratégico.<br/>
-**Storytelling com dados:** é a prática de transformar números e estatísticas frias em uma narrativa clara e visual que ajuda o público a entender o contexto e tomar decisões. <br/>
-**ETL é a sigla para Extract, Transform, Load (Extrair, Transformar e Carregar)**. Trata-se de um processo fundamental de integração de dados responsável por extrair informações de diversas fontes, limpá-las e organizá-las em um conjunto unificado, para então carregá-las em um sistema de destino final.<br/>
-**Extração de dados (Extract)** é o processo de coletar informações estruturadas ou não estruturadas de diversas fontes — como sites, PDFs, APIs, e-mails ou bancos de dados — para transformá-las em formatos utilizáveis em análises, relatórios ou sistemas automatizados.<br/>
-**Limpeza de dados (Transform)** é o processo de identificar e corrigir erros e inconsistências em conjuntos de dados brutos para melhorar a qualidade dos dados.<br/>
-**Carregamento de dados (Load):** Migração dos dados devidamente transformados e consolidados da área de preparação para o repositório analítico final (como um data warehouse ou data mart), deixando-os prontos para análises e relatórios.<br/>
+**KPI (Indicador-Chave de Desempenho)** é uma ferramenta de gestão usada para medir o sucesso e o progresso de uma empresa ou atividade em direção a um objetivo estratégico.<br/><br/>
+**Storytelling com dados:** é a prática de transformar números e estatísticas frias em uma narrativa clara e visual que ajuda o público a entender o contexto e tomar decisões. <br/><br/>
+**ETL é a sigla para Extract, Transform, Load (Extrair, Transformar e Carregar)**. Trata-se de um processo fundamental de integração de dados responsável por extrair informações de diversas fontes, limpá-las e organizá-las em um conjunto unificado, para então carregá-las em um sistema de destino final.<br/><br/>
+**Extração de dados (Extract)** é o processo de coletar informações estruturadas ou não estruturadas de diversas fontes — como sites, PDFs, APIs, e-mails ou bancos de dados — para transformá-las em formatos utilizáveis em análises, relatórios ou sistemas automatizados.<br/><br/>
+**Limpeza de dados (Transform)** é o processo de identificar e corrigir erros e inconsistências em conjuntos de dados brutos para melhorar a qualidade dos dados.<br/><br/>
+**Carregamento de dados (Load):** Migração dos dados devidamente transformados e consolidados da área de preparação para o repositório analítico final (como um data warehouse ou data mart), deixando-os prontos para análises e relatórios.<br/><br/>
 
 **Sugestões de prompts:**
 
